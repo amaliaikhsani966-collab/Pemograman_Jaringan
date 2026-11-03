@@ -1,0 +1,3 @@
+Ini adalah percobaan Data Stream Handling.
+Node.js membaca data dari file sumber.
+Data kemudian dialirkan ke file tujuan menggunakan pipe().
